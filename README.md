@@ -12,4 +12,4 @@ This shows how to instrument a flask application without installing the OneAgent
 
 
 
-You should see the purepaths in Dynatrace
+Generate traffic to http://localhost, you should see the purepaths in Dynatrace
